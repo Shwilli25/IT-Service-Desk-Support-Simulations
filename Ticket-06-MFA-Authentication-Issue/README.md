@@ -42,7 +42,7 @@ Because the request involved resetting a security-related authentication method,
 
 This provided an additional verification step before modifying the user's authentication configuration.
 
-![Manager authorization for MFA reset](Screenshots/Shot_04_Confirmed_With_Users_Manager_Through_Teams_Chat_That_MFA_Needed_Resetting.png)
+![Manager authorization for MFA reset](Screenshots/Shot_04_Confirmed_With_Users'_Manager_Through_Teams_Chat_That_MFA_Needed_Resetting.png)
 
 ### 4. Reset the MFA Configuration
 
@@ -56,7 +56,7 @@ After the reset, the user needed to enroll their authentication method again.
 
 I communicated the next steps and confirmed that the user was able to complete re-enrollment and authenticate successfully.
 
-![User re-enrollment and successful verification](Screenshots/Shot_06_Let_Manager_Know_User_Had_To_Reenroll_&_User_Confirmed_It_Was_Working.png)
+![User re-enrollment and successful verification](Screenshots/Shot_06_Let_Manager_Know_User_Has_To_Reenroll_&_User_Confirmed_Its_Working.png)
 
 ### 6. Document the Resolution
 
